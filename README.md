@@ -1,10 +1,10 @@
-# SAWLUZ
+# SAWLUZ Tecnologia e Serviços LTDA
 
 ## 🚀 Sobre a SAWLUZ
 
-A **SAWLUZ Tecnologia e Serviços** é uma empresa brasileira com mais de 30 anos de atuação, especializada em soluções de tecnologia da informação voltadas para integração de sistemas, processos logísticos e documentos fiscais eletrônicos. 【2-c111b9】
+A **SAWLUZ Tecnologia e Serviços** é uma empresa brasileira com mais de 30 anos de atuação, especializada em soluções de tecnologia da informação voltadas para integração de sistemas, processos logísticos e documentos fiscais eletrônicos.
 
-Com o propósito de **conectar negócios e gerar resultados**, a SAWLUZ desenvolve soluções que permitem às empresas automatizar processos, reduzir erros e aumentar a competitividade por meio do uso estratégico da tecnologia. 【2-c111b9】
+Com o propósito de **conectar negócios e gerar resultados**, a SAWLUZ desenvolve soluções que permitem às empresas automatizar processos, reduzir erros e aumentar a competitividade por meio do uso estratégico da tecnologia. 
 
 ---
 
@@ -18,7 +18,7 @@ A SAWLUZ atua principalmente nas seguintes áreas:
 - ⚙️ **Integração de Sistemas** – conexão entre plataformas e parceiros de negócios  
 - ☁️ **Soluções Tecnológicas e Inovação** – aplicações voltadas à indústria 4.0, cloud e IoT  
 
-As soluções são projetadas para conectar todos os pontos de uma cadeia de negócios, garantindo eficiência operacional e geração de valor. 【1-4b34a6】
+As soluções são projetadas para conectar todos os pontos de uma cadeia de negócios, garantindo eficiência operacional e geração de valor.
 
 ---
 
@@ -31,7 +31,7 @@ A SAWLUZ atende empresas de diversos setores da economia, com forte presença em
 - Indústria de manufatura  
 - Distribuidores e cadeia de suprimentos  
 
-Atualmente, está conectada a centenas de empresas, incluindo montadoras, fabricantes e distribuidores. 【2-c111b9】
+Atualmente, está conectada a centenas de empresas, incluindo montadoras, fabricantes e distribuidores.
 
 ---
 
